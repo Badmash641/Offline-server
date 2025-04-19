@@ -1,0 +1,1 @@
+procfile.web:python SATISH-CONVO.PY
